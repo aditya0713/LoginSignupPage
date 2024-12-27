@@ -1,0 +1,22 @@
+.container {
+  margin-top: 1%;
+  width: 99%;
+  max-width: 100%;
+
+  /* overflow-x: hidden; */
+}
+
+.firstRowCol {
+  margin-top: 10px;
+  background-color: #023e8a;
+  color: #ffffff;
+  height: 100%;
+  padding: 5%;
+  text-align: center;
+}
+
+.youDemand {
+  text-align: right;
+  margin-top: 2%;
+  margin-right: 15%;
+}
